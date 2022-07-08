@@ -1,14 +1,6 @@
 v1
 v2
-<<<<<<< HEAD
 v3
 v4
-<<<<<<< HEAD
 v5
 v6
-=======
-v3
->>>>>>> parent of ba3acaa... 2v4
-=======
-v5
->>>>>>> parent of 103fdea... 2v6
